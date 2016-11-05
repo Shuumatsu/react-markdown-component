@@ -100,11 +100,9 @@ class Markdown extends Component {
 
 Markdown.propTypes = {
   markdown: PropTypes.string,
-  opt: PropTypes.shape({
-    pedantic: PropTypes.bool,
-    sanitize: PropTypes.bool,
-    smartypants: PropTypes.bool
-  }),
+  pedantic: PropTypes.bool,
+  sanitize: PropTypes.bool,
+  smartypants: PropTypes.bool,
   style: PropTypes.object
 }
 
