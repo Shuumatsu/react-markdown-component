@@ -104,7 +104,8 @@ Markdown.propTypes = {
     pedantic: PropTypes.bool,
     sanitize: PropTypes.bool,
     smartypants: PropTypes.bool
-  })
+  }),
+  style: PropTypes.object
 }
 
 export default Markdown

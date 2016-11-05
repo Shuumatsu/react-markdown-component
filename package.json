@@ -1,7 +1,7 @@
 {
-  "name": "react-marked",
+  "name": "react-markdown-component",
   "version": "0.1.0",
-  "description": "a markdown element for react",
+  "description": "a markdown element/component for react parses and renders markdown text",
   "keywords": [
     "markdown",
     "marked",
@@ -11,7 +11,7 @@
   ],
   "bugs": {
     "email": "VanishingDante@gmail.com",
-    "url": "https://github.com/VanishingDante/react-marked/issues"
+    "url": "https://github.com/VanishingDante/react-markdown-component/issues"
   },
   "files": [
     "src/marked-module"
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VanishingDante/react-marked.git"
+    "url": "https://github.com/VanishingDante/react-markdown-component.git"
   },
   "devDependencies": {
     "eslint": "^3.9.1",
