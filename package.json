@@ -1,0 +1,47 @@
+{
+  "name": "react-marked",
+  "version": "0.1.0",
+  "description": "a markdown element for react",
+  "keywords": [
+    "markdown",
+    "marked",
+    "react",
+    "prismjs",
+    "code highlight"
+  ],
+  "bugs": {
+    "email": "VanishingDante@gmail.com",
+    "url": "https://github.com/VanishingDante/react-marked/issues"
+  },
+  "files": [
+    "src/marked-module"
+  ],
+  "author": {
+    "email": "VanishingDante@gmail.com",
+    "name": "Vanis",
+    "url": "https://github.com/VanishingDante"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VanishingDante/react-marked.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "react-scripts": "0.7.0",
+    "typings": "^1.5.0"
+  },
+  "dependencies": {
+    "marked": "^0.3.6",
+    "prismjs": "^1.5.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "src/marked-module/index.js",
+  "license": "MIT"
+}
